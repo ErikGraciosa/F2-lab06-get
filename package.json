@@ -1,5 +1,4 @@
 {
-  "start": "node server.js",
   "name": "F2-lab06-get",
   "version": "1.0.0",
   "description": "",
